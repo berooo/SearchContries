@@ -1,0 +1,21 @@
+Data file: test5data.txt
+Command: country CM
+	ISO:			CM
+	ISO3:			CMR
+	ISO Numeric:		120
+	FIPS:			CM
+	Country:		Cameroon
+	Capital:		Yaounde
+	Area:			475440.00
+	Population:		19294149
+	Continent:		AF
+	TopLevelDomain:			.cm
+	Currency Code:		XAF
+	Currency Name:		Franc
+	Phone:			237
+	Postal Code:		
+	Postal Code Regex:	
+	Languages:		en-CM,fr-CM
+	Geonameid:		2233387
+	Neighbors:		TD,CF,GA,GQ,CG,NG
+	Equivalent FIPS Code:	

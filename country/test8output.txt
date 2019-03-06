@@ -1,0 +1,72 @@
+Data file: test8data.txt
+Command: size average
+	Sum: 24095603.75
+	Country count: 86
+	Average Size: 280181.44
+Command: size largest
+	ISO:			DZ
+	ISO3:			DZA
+	ISO Numeric:		012
+	FIPS:			AG
+	Country:		Algeria
+	Capital:		Algiers
+	Area:			2381740.00
+	Population:		34586184
+	Continent:		AF
+	TopLevelDomain:			.dz
+	Currency Code:		DZD
+	Currency Name:		Dinar
+	Phone:			213
+	Postal Code:		#####
+	Postal Code Regex:	^(\d{5})$
+	Languages:		ar-DZ
+	Geonameid:		2589581
+	Neighbors:		NE,EH,LY,MR,TN,MA,ML
+	Equivalent FIPS Code:	
+Command: size smallest
+	ISO:			MC
+	ISO3:			MCO
+	ISO Numeric:		492
+	FIPS:			MN
+	Country:		Monaco
+	Capital:		Monaco
+	Area:			1.95
+	Population:		32965
+	Continent:		EU
+	TopLevelDomain:			.mc
+	Currency Code:		EUR
+	Currency Name:		Euro
+	Phone:			377
+	Postal Code:		#####
+	Postal Code Regex:	^(\d{5})$
+	Languages:		fr-MC,en,it
+	Geonameid:		2993457
+	Neighbors:		FR
+	Equivalent FIPS Code:	
+Command: country US
+	Country US not found.
+Command: country NOTTHERE
+	Country NOTTHERE not found.
+Command: neighbors US
+Neighbor 1
+	ISO:			CU
+	ISO3:			CUB
+	ISO Numeric:		192
+	FIPS:			CU
+	Country:		Cuba
+	Capital:		Havana
+	Area:			110860.00
+	Population:		11423000
+	Continent:		NA
+	TopLevelDomain:			.cu
+	Currency Code:		CUP
+	Currency Name:		Peso
+	Phone:			53
+	Postal Code:		CP #####
+	Postal Code Regex:	^(?:CP)*(\d{5})$
+	Languages:		es-CU
+	Geonameid:		3562981
+	Neighbors:		US
+	Equivalent FIPS Code:	
+Command: neighbors NOTTHERE
+	Country NOTTHERE has no neighbors.

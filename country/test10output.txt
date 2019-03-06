@@ -1,0 +1,17 @@
+Data file: test10data.txt
+Command: size average
+	Sum: 27088107.30
+	Country count: 67
+	Average Size: 404300.11
+Command: size average
+	Sum: 27088107.30
+	Country count: 67
+	Average Size: 404300.11
+Command: country #LT
+	Country #LT not found.
+Command: neighbors #PE
+	Country #PE has no neighbors.
+Command: size average
+	Sum: 27088107.30
+	Country count: 67
+	Average Size: 404300.11

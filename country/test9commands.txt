@@ -1,0 +1,8 @@
+Data File: test9data.txt
+size largest
+size largest
+neighbors #CS
+size average
+size smallest
+size average
+country ID

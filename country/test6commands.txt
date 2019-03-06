@@ -1,0 +1,2 @@
+Data File: test6data.txt
+neighbors #UA

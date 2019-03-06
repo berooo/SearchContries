@@ -1,0 +1,5 @@
+Data file: test1data.txt
+Command: size average
+	Sum: 48239470.45
+	Country count: 75
+	Average Size: 643192.94

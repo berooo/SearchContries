@@ -1,0 +1,21 @@
+Data file: test2data.txt
+Command: size largest
+	ISO:			AU
+	ISO3:			AUS
+	ISO Numeric:		036
+	FIPS:			AS
+	Country:		Australia
+	Capital:		Canberra
+	Area:			7686850.00
+	Population:		21515754
+	Continent:		OC
+	TopLevelDomain:			.au
+	Currency Code:		AUD
+	Currency Name:		Dollar
+	Phone:			61
+	Postal Code:		####
+	Postal Code Regex:	^(\d{4})$
+	Languages:		en-AU
+	Geonameid:		2077456
+	Neighbors:		
+	Equivalent FIPS Code:	

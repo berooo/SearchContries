@@ -1,0 +1,91 @@
+Data file: test9data.txt
+Command: size largest
+	ISO:			AQ
+	ISO3:			ATA
+	ISO Numeric:		010
+	FIPS:			AY
+	Country:		Antarctica
+	Capital:		
+	Area:			14000000.00
+	Population:		0
+	Continent:		AN
+	TopLevelDomain:			.aq
+	Currency Code:		
+	Currency Name:		
+	Phone:			
+	Postal Code:		
+	Postal Code Regex:	
+	Languages:		
+	Geonameid:		6697173
+	Neighbors:		
+	Equivalent FIPS Code:	
+Command: size largest
+	ISO:			AQ
+	ISO3:			ATA
+	ISO Numeric:		010
+	FIPS:			AY
+	Country:		Antarctica
+	Capital:		
+	Area:			14000000.00
+	Population:		0
+	Continent:		AN
+	TopLevelDomain:			.aq
+	Currency Code:		
+	Currency Name:		
+	Phone:			
+	Postal Code:		
+	Postal Code Regex:	
+	Languages:		
+	Geonameid:		6697173
+	Neighbors:		
+	Equivalent FIPS Code:	
+Command: neighbors #CS
+	Country #CS has no neighbors.
+Command: size average
+	Sum: 67350930.45
+	Country count: 82
+	Average Size: 821352.81
+Command: size smallest
+	ISO:			MC
+	ISO3:			MCO
+	ISO Numeric:		492
+	FIPS:			MN
+	Country:		Monaco
+	Capital:		Monaco
+	Area:			1.95
+	Population:		32965
+	Continent:		EU
+	TopLevelDomain:			.mc
+	Currency Code:		EUR
+	Currency Name:		Euro
+	Phone:			377
+	Postal Code:		#####
+	Postal Code Regex:	^(\d{5})$
+	Languages:		fr-MC,en,it
+	Geonameid:		2993457
+	Neighbors:		FR
+	Equivalent FIPS Code:	
+Command: size average
+	Sum: 67350930.45
+	Country count: 82
+	Average Size: 821352.81
+Command: country ID
+	ISO:			ID
+	ISO3:			IDN
+	ISO Numeric:		360
+	FIPS:			ID
+	Country:		Indonesia
+	Capital:		Jakarta
+	Area:			1919440.00
+	Population:		242968342
+	Continent:		AS
+	TopLevelDomain:			.id
+	Currency Code:		IDR
+	Currency Name:		Rupiah
+	Phone:			62
+	Postal Code:		#####
+	Postal Code Regex:	^(\d{5})$
+	Languages:		id,en,nl,jv
+	Geonameid:		1643084
+	Neighbors:		PG,TL,MY
+	Equivalent FIPS Code:	

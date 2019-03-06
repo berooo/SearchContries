@@ -1,0 +1,21 @@
+Data file: test3data.txt
+Command: size smallest
+	ISO:			GI
+	ISO3:			GIB
+	ISO Numeric:		292
+	FIPS:			GI
+	Country:		Gibraltar
+	Capital:		Gibraltar
+	Area:			6.50
+	Population:		27884
+	Continent:		EU
+	TopLevelDomain:			.gi
+	Currency Code:		GIP
+	Currency Name:		Pound
+	Phone:			350
+	Postal Code:		
+	Postal Code Regex:	
+	Languages:		en-GI,es,it,pt
+	Geonameid:		2411586
+	Neighbors:		ES
+	Equivalent FIPS Code:	

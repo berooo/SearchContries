@@ -1,0 +1,8 @@
+Data File: countryInfo.txt
+size average
+size largest
+size smallest
+country US
+neighbors US
+country NONE
+neighbors WHO

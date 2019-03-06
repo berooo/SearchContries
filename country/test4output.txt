@@ -1,0 +1,3 @@
+Data file: test4data.txt
+Command: country #BA
+	Country #BA not found.

@@ -1,0 +1,8 @@
+Data File: test8data.txt
+size average
+size largest
+size smallest
+country US
+country NOTTHERE
+neighbors US
+neighbors NOTTHERE

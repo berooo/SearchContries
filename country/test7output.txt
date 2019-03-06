@@ -1,0 +1,22 @@
+Data file: test7data.txt
+Command: neighbors IE
+Neighbor 1
+	ISO:			GB
+	ISO3:			GBR
+	ISO Numeric:		826
+	FIPS:			UK
+	Country:		United Kingdom
+	Capital:		London
+	Area:			244820.00
+	Population:		62348447
+	Continent:		EU
+	TopLevelDomain:			.uk
+	Currency Code:		GBP
+	Currency Name:		Pound
+	Phone:			44
+	Postal Code:		@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA
+	Postal Code Regex:	^((?:(?:[A-PR-UWYZ][A-HK-Y]\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\d[A-HJKPS-UW0-9])\s\d[ABD-HJLNP-UW-Z]{2})|GIR\s?0AA)$
+	Languages:		en-GB,cy-GB,gd
+	Geonameid:		2635167
+	Neighbors:		IE
+	Equivalent FIPS Code:	

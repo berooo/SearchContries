@@ -1,0 +1,6 @@
+Data File: test10data.txt
+size average
+size average
+country #LT
+neighbors #PE
+size average
